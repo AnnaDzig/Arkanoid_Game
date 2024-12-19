@@ -1,0 +1,14 @@
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\Arkadian.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\Arkadian.AssemblyInfoInputs.cache
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\Arkadian.AssemblyInfo.cs
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\Arkadian.csproj.CoreCompileInputs.cache
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\bin\Debug\net8.0\Arkadian.exe
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\bin\Debug\net8.0\Arkadian.deps.json
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\bin\Debug\net8.0\Arkadian.runtimeconfig.json
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\bin\Debug\net8.0\Arkadian.dll
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\bin\Debug\net8.0\Arkadian.pdb
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\Arkadian.dll
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\refint\Arkadian.dll
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\Arkadian.pdb
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\Arkadian.genruntimeconfig.cache
+D:\DotNetCourse\HomeWorkEssential\ArkadianGame\Arkadian\obj\Debug\net8.0\ref\Arkadian.dll
