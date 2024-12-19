@@ -215,7 +215,7 @@ namespace ConsoleArkanoid
         {
             Console.Clear();
             Console.SetCursorPosition(Console.WindowWidth / 2 - 10, Console.WindowHeight / 2);
-            Console.WriteLine("GAME OVER!!! Press Enter to restart or Escape to exit.");
+            Console.WriteLine("GAME OVER!!! Press ENTER to restart or ESCAPE to exit.");
 
             while (true)
             {
@@ -248,12 +248,12 @@ namespace ConsoleArkanoid
 
         public void MoveLeft(int windowWidth)
         {
-            Position = Math.Max(0, Position - moveSpeed); // Рух вліво
+            Position = Math.Max(0, Position - moveSpeed); 
         }
 
         public void MoveRight(int windowWidth)
         {
-            Position = Math.Min(windowWidth - 10, Position + moveSpeed); // Рух вправо
+            Position = Math.Min(windowWidth - 10, Position + moveSpeed); 
         }
 
         public void Draw()
